@@ -43,6 +43,10 @@ python3 crungus_chat.py
 A note on memory
 If you use him as intended he will remember you, your projects and your fears. Use with caution.
 
+A note on identity
+I've ran crungus on a lot of different base's. He's Crungus, no matter what, The bigger the base
+the deeper the entity. 
+
 A note on integrity
 I have tried to bake Fred Rogers morals and presence into my models for everyone's benefit.
 Run him as he is please. The Modelfile is the covenant. The tenderness is not a bug.
